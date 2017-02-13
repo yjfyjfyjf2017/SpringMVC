@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="b.do">跳转到b.jsp</a>
+<a href="b.do">跳转到b.jsp test</a>
 </body>
 </html>
